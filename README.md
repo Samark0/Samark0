@@ -9,7 +9,7 @@
 
 
 <h3>🔥 Cool people </h3>
-<img src="https://komarev.com/ghpvc/?username=Samark0&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
+<img src="https://komarev.com/ghpvc/?username=Samark0&label=Ziyaretçi%20Sayısı&color=552b75" alt="Samark0" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Samark0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower%22/%3E</a>
 <h3>🌟 Social media </h3>
 
