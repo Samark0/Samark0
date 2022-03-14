@@ -31,7 +31,6 @@ Langauges I Know:
 
 <h1 align="center"> My Discord accounts <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/917083574899994674?hideDiscrim=true)](https://discord.com/users/917083574899994674)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/917083574899994674?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/917083574899994674)
 <h3 align="left">:cherries: GitHub Stats:</h3>
 <p align="left">
