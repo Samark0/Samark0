@@ -18,7 +18,7 @@
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Samark0)
 [![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/samark__919/v)
 
-<h1 align="center"> My Discord accounts <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center"> My Discord accounts <img src="https://i.pinimg.com/originals/fe/73/dc/fe73dcdb491060bd79c1e1541481fb3a.gif" width="30px"> </h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/917083574899994674?hideDiscrim=true)](https://discord.com/users/917083574899994674)
 
