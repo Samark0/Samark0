@@ -21,7 +21,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/917083574899994674?hideDiscrim=true)](https://discord.com/users/917083574899994674)
 
-<h3 align="left"👨‍💻 GitHub Stats:</h3>
+<h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Samark0&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samark0&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true%22width=%22%100" height="150px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
