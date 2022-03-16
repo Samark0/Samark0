@@ -34,5 +34,5 @@ Langauges I Know:
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/917083574899994674?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/917083574899994674)
 <h3 align="left">:cherries: GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Fayikcim&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Samark0&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayikcim&layout=compact&theme=dark&hide_border=true" />
